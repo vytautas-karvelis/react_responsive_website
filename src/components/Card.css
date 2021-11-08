@@ -1,0 +1,31 @@
+* {
+    padding:0;
+    margin:0;
+}
+
+@import url('https://fonts.googleapis.com/css2?family=Raleway:wght@400&display=swap');
+
+.card h3 {
+    margin-bottom: 0.5rem;
+    font-size: 1rem;
+    color:#16507b
+}
+
+.card .icon {
+    margin-bottom: 0.4rem;
+    padding:0.5rem 0rem;
+}
+
+.card p {
+    line-height: 1.5rem;
+    font-size: 13px;
+}
+.card {
+    width:220px;
+    margin: 0 auto;
+    background: white;
+    border-radius: 5px;
+    padding:45px 15px;
+    box-sizing: content-box;
+    font-family: 'Raleway', sans-serif;
+}
